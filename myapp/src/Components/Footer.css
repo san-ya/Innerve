@@ -1,0 +1,12 @@
+footer {
+    text-align: center;
+    vertical-align: bottom;
+    color: white;
+}
+
+.socMedia a {
+    text-decoration: none;
+    color: white;
+    font-size: 40px;
+    display: inline-block;
+}

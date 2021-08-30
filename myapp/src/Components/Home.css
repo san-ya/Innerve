@@ -1,0 +1,21 @@
+.headerContents a {
+    overflow: hidden;
+    display: inline-block;
+    margin: 0 1%;
+    text-decoration: none;
+    color: white;
+    font-size: 23px;
+    letter-spacing: 1.5px;
+    padding: 1% 0;
+}
+
+.headerContents a:hover {
+    color: rgb(243, 6, 124);
+}
+
+img {
+    width: 100%;
+    height: 400px;
+    padding-top: 0.05%;
+    z-index: -1;
+}
